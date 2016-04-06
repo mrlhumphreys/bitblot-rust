@@ -1,0 +1,7 @@
+[package]
+name = "bitblot-rust"
+version = "0.1.0"
+authors = ["Mark Humphreys <mark.humphreys@publicisfrontfoot.com.au>"]
+
+[dependencies]
+rand = "0.3"
